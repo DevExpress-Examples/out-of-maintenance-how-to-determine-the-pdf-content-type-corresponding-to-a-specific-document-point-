@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/GetContentInfoExample/Form1.cs) (VB: [Form1.vb](./VB/GetContentInfoExample/Form1.vb))
+* [Program.cs](./CS/GetContentInfoExample/Program.cs) (VB: [Program.vb](./VB/GetContentInfoExample/Program.vb))
+<!-- default file list end -->
 # How to determine the PDF content type corresponding to a specific document point
 
 
